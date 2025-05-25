@@ -1,35 +1,34 @@
-<!-- Bannière / Salut -->
-<h1 align="center">Salut, je suis Quentin 👋</h1>
+<!-- Banner / Greeting -->
+<h1 align="center">Hello, I'm Quentin 👋</h1>
 
 <p align="center">
-  🎓 Étudiant à Epitech • 💻 Freelance Dev Web • 🔧 Passionné par la performance et la qualité du code  
+  🎓 Student at Epitech • 💻 Freelance Web Developer • 🔧 Passionate about performance and code quality  
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-- Maîtrise de **C**, **C++**, **Java**, **JavaScript** **Go** **Rust** et **React**  
-- Bonnes connaissances en **SQL** & **NoSQL**  
-- Freelance en développement web full-stack  
-- Créateur de **Unipkg**, un gestionnaire de paquets léger pour Linux  
+- Proficient in **C**, **C++**, **Java**, **JavaScript**, **Go**, **Rust**, and **React**  
+- Strong knowledge of **SQL** & **NoSQL**  
+- Freelance full-stack web developer  
+- Creator of **Unipkg**, a lightweight package manager for Linux  
 
 ---
 
-## 📂 Projets phares
+## 📂 Key Projects
 
-| Projet                                                                 | Description                                                      | Tech & Outils                         |
+| Project                                                                 | Description                                                      | Tech & Tools                         |
 | :--------------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------ |
-| [Unipkg](https://github.com/Laki0s/unipkg)                             | Gestionnaire de paquets léger et rapide pour distributions Linux | Go • JavaScript • CI/CD • Docker      |
-| [file-malware-checker](https://github.com/Laki0s/file-malware-checker) | Vérificateur de fichiers malveillants via API VirusTotal         | Python • Requests • GitHub Actions    |
-| [VoiceModProject](https://github.com/Laki0s/VoiceModProject)           | Modificateur de voix en temps réel pour Garry’s Mod              | C • C++ • Makefile • PortAudio        |
+| [Unipkg](https://github.com/Laki0s/unipkg)                             | A lightweight, high-performance package manager for Linux distros | Go • JavaScript • CI/CD • Docker      |
+| [file-malware-checker](https://github.com/Laki0s/file-malware-checker) | Checker for malicious files via the VirusTotal API               | Python • Requests • GitHub Actions    |
+| [VoiceModProject](https://github.com/Laki0s/VoiceModProject)           | Real-time voice modifier for Garry’s Mod                         | C • C++ • Makefile • PortAudio        |
 
-
-> ℹ️ Découvre tous mes projets sur mon profil GitHub !
+> ℹ️ Discover all my projects on my GitHub profile!
 
 ---
 
-## 🛠 Technologies & Outils
+## 🛠 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="30"/>
@@ -47,11 +46,11 @@
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 - 📧 [quentin.gehin@epitech.eu](mailto:quentin.gehin@epitech.eu)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/quentin-gehin/)  
 
 ---
 
-> J'aime les milkshakes
+> I love milkshakes
