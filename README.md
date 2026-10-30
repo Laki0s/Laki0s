@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Laki0s 👋</h1>
+<h1 align="center">Hey, I'm Laki0s </h1>
 
 <p align="center">
-  <strong>Developer • Systems enthusiast • Open-source builder</strong>
+  <strong>Developer - Systems enthusiast - Open-source builder</strong>
 </p>
 
 <p align="center">
-  I like turning ideas into software — from low-level tools and networking projects<br>
+  I like turning ideas into software from low-level tools and networking projects<br>
   to game development and experiments with new languages.
 </p>
 
@@ -17,10 +17,10 @@
 
 ## About me
 
-- 🔧 I enjoy building tools that sit close to the system: networking, performance, processes and native code.
-- 🧪 I learn by making concrete projects, exploring new languages and solving practical problems.
-- 🎮 I also like game development and creating unusual experiments.
-- 🥤 Fun fact: I like milkshakes and computer science.
+- I enjoy building tools that sit close to the system: networking, performance, processes and native code.
+- I learn by making concrete projects, exploring new languages and solving practical problems.
+- I also like game development and creating unusual experiments.
+- I like milkshakes and computer science.
 
 ## Featured projects
 
@@ -46,7 +46,7 @@
 
 ## What I'm working on
 
-Learning, experimenting and shipping small projects — always with a focus on understanding how things work under the hood.
+Learning, experimenting and shipping small projects - always with a focus on understanding how things work under the hood.
 
 <p align="center">
   <i>Thanks for stopping by!</i>
