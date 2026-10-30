@@ -46,7 +46,7 @@
 
 ## What I'm working on
 
-Learning, experimenting and shipping small projects - always with a focus on understanding how things work under the hood.
+Learning, experimenting and shipping small projects always with a focus on understanding how things work under the hood.
 
 <p align="center">
   <i>Thanks for stopping by!</i>
