@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Laki0s </h1>
 
 <p align="center">
-  <strong>Developer - Systems enthusiast - Open-source builder</strong>
+  <strong>Developer</strong>
 </p>
 
 <p align="center">
